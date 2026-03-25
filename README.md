@@ -9,15 +9,8 @@ A meme token built on **Solana**, brewed for community, good vibes, and fast tra
 Built with **Next.js + Tailwind CSS**
 
 **Live Site:** *(appears after deploy)*  
-**Repo Owner:** `danielpatton062-beep`
+**Repo Owner:** `danielpatton062-beep` 
 
----
-
-## 🚀 One‑Click Deploy
-
-Click the button below to launch this site for free on [Vercel](https://vercel.com):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/danielpatton062-beep/beer-coin-site)
 
 ### ✅ Build settings for Vercel
 If you see a build error:
