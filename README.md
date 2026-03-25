@@ -12,10 +12,7 @@ Built with **Next.js + Tailwind CSS**
 **Repo Owner:** `danielpatton062-beep` 
 
 
-### ✅ Build settings for Vercel
-If you see a build error:
-1. Delete the file `vercel.json` (or leave just `{}` inside).  
-2. Redeploy with these defaults:
+###
    - **Framework Preset:** Next.js  
    - **Build Command:** `npm run build`  
    - **Output Dir:** `.next`
